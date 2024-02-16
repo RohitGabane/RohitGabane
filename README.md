@@ -6,7 +6,7 @@
 
 <br />
 
-Passionate self-taught Software Developer  and a computer vision engineer from india.
+Passionate self-thought Software Developer  and a computer vision engineer from india.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
