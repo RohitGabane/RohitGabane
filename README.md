@@ -7,7 +7,7 @@
 <br />
  
 
-<img src="https://raw.githubusercontent.com/RohitGabane/RohitGabane/master/gh-header-image-cropped.png" alt="banner that says Rohit Gabane - software engineer, Problem Solver, Team Leader">
+<img src="https://raw.githubusercontent.com/RohitGabane/RohitGabane/main/gh-header-image-cropped.png" alt="banner that says Rohit Gabane - software engineer, Problem Solver, Team Leader">
 
 
 Passionate self-taught Software Developer  and a computer vision engineer from india.
