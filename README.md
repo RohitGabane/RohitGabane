@@ -1,5 +1,7 @@
 #### hey there ...
 ### I'm Rohit_Gabane 👋🏾 👩🏾‍💻
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
 
 ![](https://komarev.com/ghpvc/?username=RohitGabane)
 <div id="header" align="center">
