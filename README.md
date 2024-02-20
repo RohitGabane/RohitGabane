@@ -66,7 +66,7 @@ Implementation technology : Java, DotNet, MySQL, SQL SERVER, ReactJs, JavaScript
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RohitGabane&show_icons=true&theme=cobalt" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RohitGabane&show_icons=true&theme=cobalt" alt="RohitGabane" />
 
 
 
