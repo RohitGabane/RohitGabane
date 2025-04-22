@@ -1,9 +1,10 @@
-#### hey there ...
-### I'm Rohit_Gabane 👋🏾 👩🏾‍💻
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+<h1 align="center">Hey there 👋🏾, I'm Rohit Gabane!</h1>
+<h3 align="center">A Passionate Full Stack Developer & Computer Vision Enthusiast from India 🇮🇳</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RohitGabane&label=Profile%20views&color=0e75b6&style=flat" alt="RohitGabane" />
+</p>
 
-![](https://komarev.com/ghpvc/?username=RohitGabane)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div id="badges">
